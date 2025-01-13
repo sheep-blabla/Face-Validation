@@ -1,0 +1,2 @@
+pytorch_inception/face_validation.pth[[:space:]] filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
